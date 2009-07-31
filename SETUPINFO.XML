@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<setup_info_list>
+
+	<setup_info>
+		<data_folder_name>DATA</data_folder_name>
+		<plugin_file_name>atok_direct_google_moshikashite.rb</plugin_file_name>
+
+		<plugin_enable>true</plugin_enable>
+		<only_individual_run>false</only_individual_run>
+		<add_position>1</add_position>
+	</setup_info>
+
+</setup_info_list>

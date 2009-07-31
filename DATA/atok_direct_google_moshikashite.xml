@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<plugin_info>
+	<name>もしかして Google</name>
+	<name_short>もしかして Google</name_short>
+	<description>Google のもしかしての結果から候補を表示します。</description>
+	<copyright>コードのライセンスは MIT </copyright>
+	<major_version>1</major_version>
+	<minor_version>0</minor_version>
+</plugin_info>
+
